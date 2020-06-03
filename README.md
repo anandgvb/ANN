@@ -1,2 +1,2 @@
 # Problem Statement
-Create a Neural network to predict whether a house will be sold on basis other features of the house listed.
+Create a Neural network to predict whether the house will be sold on the basis of other features.
